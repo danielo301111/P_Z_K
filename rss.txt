@@ -1,1 +1,50 @@
+<rss version="8.0.7">
+<channel>
+
+<title>PIRACI </title>
+
+<item>
+<title>ZAPRASZAMY </title> 
+</item>
+
+
+
+<item>
+<title>Aktualna wersja: 1.0.0 </title> 
+</item>
+
+
+<item>
+<title>Werjsa należąca do grupy PIRATÓW </title>
+</item>
+
+
+<item>
+<title>  </title> 
+</item>
+
+<item>
+<title>1.0.0   </title>
+</item>
+
+
+
+<item>
+<title> "PIRACI" wersja testowa Daniela </title>
+</item>
+
+<item>
+<title>Wersje stworzył-Daniel,grafika- Thunderman69-pozdrawiamy.</title>
+</item>
+ 
+</channel>
+</rss>
+ 
+ <item>
+ <title> Do zobaczenia w kolejnych wersjach.  </title>
+
+
+
+ 
+ 
 
