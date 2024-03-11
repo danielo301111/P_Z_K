@@ -15,7 +15,7 @@
 
 
 <item>
-<title>Werjsa należąca do grupy PIRATÓW VIP</title>
+<title>Werjsa należąca do grupy PIRACI VIP</title>
 </item>
 
 
