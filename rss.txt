@@ -1,7 +1,7 @@
 <rss version="8.0.7">
 <channel>
 
-<title>PIRACI </title>
+<title>PIRACI VIP</title>
 
 <item>
 <title>ZAPRASZAMY </title> 
@@ -15,7 +15,7 @@
 
 
 <item>
-<title>Werjsa należąca do grupy PIRATÓW </title>
+<title>Werjsa należąca do grupy PIRATÓW VIP</title>
 </item>
 
 
@@ -30,11 +30,11 @@
 
 
 <item>
-<title> "PIRACI" wersja testowa Daniela </title>
+<title> "PIRACI VIP" wersja testowa Daniela </title>
 </item>
 
 <item>
-<title>Wersje stworzył-Daniel,grafika- Thunderman69-pozdrawiamy.</title>
+<title>Wersje stworzył-Daniel,grafika- Thunderman69,Alexxx-pozdrawiamy.</title>
 </item>
  
 </channel>
