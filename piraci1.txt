@@ -1,4 +1,4 @@
-id="plugin.program.KodiPIRACI1" 
+id="plugin.program.KodiP_Z_K" 
 version="8.0.3" 
 zip="https://shorturl.at/dAIRV" 
 
