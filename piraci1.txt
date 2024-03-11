@@ -4,7 +4,7 @@ zip="https://shorturl.at/dAIRV"
 
 name="KodiVIP" 
 version="1.0.0" 
-url="https://www.dropbox.com/scl/fo/8ug2ptjvh5vdt5ip47pv3/h?rlkey=63n6oifbd1z9crwxdck7x8ei8&dl=1"
+url="https://www.dropbox.com/scl/fi/hqsexkxkizhjbk6jg9sjp/kodi-piraci-vip.zip?rlkey=9mngpuj5z1s2pvdlyfmkdvjoy&dl=1"
 minor="http://"
 gui="http://"
 kodi="20.2" 
