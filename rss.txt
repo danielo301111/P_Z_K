@@ -4,7 +4,7 @@
 <title>PIRACI VIP</title>
 
 <item>
-<title>ZAPRASZAMY .UWAGA UWAGA ZAKAZ ROZDAWANIA NA INNE GRUPY,niech tylko zobaczę gdzieś,wtedy wszyscy będą ciepieć ,bo nikomu więcej nie dam.</title> 
+<title>ZAPRASZAMY .UWAGA UWAGA ZAKAZ ROZDAWANIA NA INNE GRUPY,niech tylko zobaczę gdzieś,wtedy wszyscy będą cierpieć ,bo nikomu więcej nie udostępnię</title> 
 </item>
 
 
@@ -34,7 +34,7 @@
 </item>
 
 <item>
-<title>Wersje stworzył-Daniel,grafika- Thunderman69,Alexxx-pozdrawiamy.</title>
+<title>Wersje stworzyli-Daniel,grafika- (Thunderman69,Alexxx)-pozdrawiamy.</title>
 </item>
  
 </channel>
