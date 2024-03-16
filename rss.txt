@@ -4,13 +4,13 @@
 <title>PIRACI VIP</title>
 
 <item>
-<title>ZAPRASZAMY </title> 
+<title>ZAPRASZAMY .UWAGA UWAGA ZAKAZ ROZDAWANIA NA INNE GRUPY,niech tylko zobaczę gdzieś,wtedy wszyscy będą ciepieć ,bo nikomu więcej nie dam.</title> 
 </item>
 
 
 
 <item>
-<title>Aktualna wersja: 1.0.0 robiona na kodi 20.5 </title> 
+<title> Także proszę się zastanowić .Aktualna wersja: 1.0.1 robiona na kodi 20.5 </title> 
 </item>
 
 
@@ -24,7 +24,7 @@
 </item>
 
 <item>
-<title>1.0.0   </title>
+<title>1.0.1   </title>
 </item>
 
 
@@ -41,7 +41,7 @@
 </rss>
  
  <item>
- <title> Do zobaczenia w kolejnych wersjach.  </title>
+ <title> Do zobaczenia w kolejnych wersjach.Oczywiście od Was zależy czy będą. </title>
 
 
 
