@@ -34,7 +34,7 @@
 </item>
 
 <item>
-<title>Wersje stworzyli-Daniel,grafika- (Thunderman69,Alexxx)-pozdrawiamy.</title>
+<title>Wersje stworzyli-Daniel,grafika- (Thunderman69,Alexxx)Hellboy-pozdrawiamy.</title>
 </item>
  
 </channel>
@@ -43,7 +43,9 @@
  <item>
  <title> Do zobaczenia w kolejnych wersjach.Oczywiście od Was zależy czy będą. </title>
 
-
+<item>
+<title>Ustawiłem licznik użytkowników,podpisałem niektóre pluginy,także wszystko wyjdzie na jaw. Wtedy nastanie ciemność.</title>
+</item>
 
  
  
